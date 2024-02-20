@@ -1,0 +1,22 @@
+a, a:hover {
+  text-decoration: none !important;
+}
+
+button, button:hover, textarea {
+  appearance: none;
+  outline: none;
+  border: none;
+  box-shadow: none;
+}
+
+.cat-button {
+  color: #fff;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 600;
+  padding: 16px 40px;
+  display: block;
+  border-radius: 20px;
+  transition: .3s ease-in-out;
+  margin-top: 12px;
+}
